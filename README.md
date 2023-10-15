@@ -10,7 +10,7 @@ Codelândia é uma comunidade que te ajuda a aprender mais por meio de desafios.
 - [TypeScript](https://www.typescriptlang.org/)
 - [Vite(*bundle*)](https://vitejs.dev/)
 - [bun(*runtime*)](https://bun.sh/)
-- [TailWind CSS](https://tailwindcss.com/)
+- [SASS](https://sass-lang.com/)
 
 ## Executando localmente
 
@@ -49,7 +49,7 @@ para rodar o projeto, siga os passo abaixo:
 **Autor: [Iuri Silva](https://www.instagram.com/iuricode/)**
 
 ## Live site
-**[🔗️]()**
+**[🔗️](https://desafio-codelandia-04.vercel.app/)**
 
 ## Screenshots
 
