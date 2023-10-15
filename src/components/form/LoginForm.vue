@@ -40,9 +40,15 @@ const saveEmailID = crypto.randomUUID()
 @import '../../styles/variables';
 
 form {
+  display: flex;
+  flex-direction: column;
+  gap: .5rem;
   align-self: center;
+
   width: 347px;
+  
   padding-block: 2rem;
+  padding: .5rem;
 }
 
 .radio-input {
@@ -65,8 +71,6 @@ form {
       width: 1rem;
       margin-bottom: 0.5rem;
     }
-  }
-  a {
   }
 }
 
@@ -95,7 +99,7 @@ form {
   &__google {
     position: relative;
     background-color: map-get($colors, 'dark', '10');
-    width: 21.8rem;
+    width:100%;
 
     padding-inline: 3rem;
 
